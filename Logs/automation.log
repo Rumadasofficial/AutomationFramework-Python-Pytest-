@@ -1,0 +1,376 @@
+05012023 12:58:41 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 12:58:45 PM: INFO: ********Test_001_Login*************
+05012023 12:58:45 PM: INFO: ********Verifying Home page title*************
+05012023 12:58:48 PM: INFO: ********Home page title test case is passed*************
+05012023 12:58:49 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 12:58:52 PM: INFO: ********Verifying Login Test*************
+05012023 12:58:58 PM: INFO: ********Login test case is passed*************
+05012023 03:15:57 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:16:01 PM: INFO: ********Test_001_Login*************
+05012023 03:16:01 PM: INFO: ********Verifying Home page title*************
+05012023 03:16:05 PM: INFO: ********Home page title test case is passed*************
+05012023 03:16:05 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:16:08 PM: INFO: ********Verifying Login Test*************
+05012023 03:16:16 PM: INFO: ********Login test case is passed*************
+05012023 03:17:15 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:17:26 PM: INFO: ********Test_001_Login*************
+05012023 03:17:26 PM: INFO: ********Verifying Home page title*************
+05012023 03:17:30 PM: INFO: ********Home page title test case is passed*************
+05012023 03:17:30 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:17:33 PM: INFO: ********Verifying Login Test*************
+05012023 03:17:38 PM: INFO: ********Login test case is passed*************
+05012023 03:20:28 PM: WARNING: Unable to obtain driver using Selenium Manager: internet explorer is not a valid browser.  Choose one of: ['chrome', 'firefox', 'edge', 'MicrosoftEdge', 'ie']
+05012023 03:20:28 PM: WARNING: Unable to obtain driver using Selenium Manager: internet explorer is not a valid browser.  Choose one of: ['chrome', 'firefox', 'edge', 'MicrosoftEdge', 'ie']
+05012023 03:21:49 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser edge --output json
+05012023 03:21:53 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser edge --output json
+05012023 03:23:17 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:23:23 PM: INFO: ********Test_001_Login*************
+05012023 03:23:23 PM: INFO: ********Verifying Home page title*************
+05012023 03:23:27 PM: INFO: ********Home page title test case is passed*************
+05012023 03:23:27 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:23:31 PM: INFO: ********Verifying Login Test*************
+05012023 03:23:44 PM: INFO: ********Login test case is passed*************
+05012023 03:25:35 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:25:35 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:25:41 PM: INFO: ********Test_001_Login*************
+05012023 03:25:41 PM: INFO: ********Verifying Home page title*************
+05012023 03:25:41 PM: INFO: ********Verifying Login Test*************
+05012023 03:25:45 PM: INFO: ********Home page title test case is passed*************
+05012023 03:25:48 PM: INFO: ********Login test case is passed*************
+05012023 03:26:55 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:26:55 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser firefox --output json
+05012023 03:26:59 PM: INFO: ********Verifying Login Test*************
+05012023 03:26:59 PM: INFO: ********Test_001_Login*************
+05012023 03:26:59 PM: INFO: ********Verifying Home page title*************
+05012023 03:27:03 PM: INFO: ********Home page title test case is passed*************
+05012023 03:27:03 PM: INFO: ********Login test case is passed*************
+05012023 03:40:28 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:40:28 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:40:34 PM: INFO: ********Verifying Login Test*************
+05012023 03:40:34 PM: INFO: ********Test_001_Login*************
+05012023 03:40:34 PM: INFO: ********Verifying Home page title*************
+05012023 03:40:38 PM: INFO: ********Home page title test case is passed*************
+05012023 03:40:39 PM: INFO: ********Login test case is passed*************
+05012023 03:43:44 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:43:44 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05012023 03:43:49 PM: INFO: ********Test_001_Login*************
+05012023 03:43:49 PM: INFO: ********Verifying Login Test*************
+05012023 03:43:49 PM: INFO: ********Verifying Home page title*************
+05012023 03:43:53 PM: INFO: ********Home page title test case is passed*************
+05012023 03:43:57 PM: INFO: ********Login test case is passed*************
+05022023 12:33:30 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 12:33:35 PM: INFO: ********Test_002_DDT_Login*************
+05022023 12:33:35 PM: INFO: ********Verifying Login DDT Test*************
+05022023 12:33:48 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 12:40:44 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 12:40:48 PM: INFO: ********Test_002_DDT_Login*************
+05022023 12:40:48 PM: INFO: ********Verifying Login DDT Test*************
+05022023 12:41:01 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:33:27 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:33:31 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:33:31 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:33:43 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:36:04 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:36:09 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:36:09 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:36:20 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:38:41 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:38:45 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:38:45 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:39:00 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:40:41 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:40:45 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:40:45 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:40:57 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:41:05 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:43:01 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:43:05 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:43:05 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:43:18 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:43:25 PM: INFO: ********Login tet case with valid data is passed*************
+05022023 01:48:40 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:48:44 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:48:44 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:48:56 PM: INFO: ********Login test case with valid data is passed*************
+05022023 01:49:03 PM: INFO: ********Login test case with invalid data is passed*************
+05022023 01:51:58 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05022023 01:52:01 PM: INFO: ********Test_002_DDT_Login*************
+05022023 01:52:01 PM: INFO: ********Verifying Login DDT Test*************
+05022023 01:52:12 PM: INFO: ********Login test case with valid data is passed*************
+05022023 01:52:20 PM: INFO: ********Login test case with invalid data is passed*************
+05022023 01:52:25 PM: INFO: ********Login test case with invalid data is passed*************
+05022023 01:52:31 PM: INFO: ********Login test case with invalid data is passed*************
+05022023 01:52:31 PM: INFO: ************ Login DDT test case is Passed........*******************
+05022023 01:52:31 PM: INFO: *************End of Login DDT test **********************
+05022023 01:52:31 PM: INFO: *************Completed Test_002_DDT_Login**********************
+05042023 04:08:53 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:08:59 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:08:59 PM: INFO: ********Verifying Customer page title*************
+05042023 04:09:05 PM: INFO: ***********Login Successfully**********************
+05042023 04:09:05 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:10:06 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:10:10 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:10:10 PM: INFO: ********Verifying Customer page title*************
+05042023 04:10:17 PM: INFO: ***********Login Successfully**********************
+05042023 04:10:17 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:12:30 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:12:33 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:12:33 PM: INFO: ********Verifying Customer page title*************
+05042023 04:12:45 PM: INFO: ***********Login Successfully**********************
+05042023 04:12:45 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:12:50 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:13:33 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:13:36 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:13:36 PM: INFO: ********Verifying Customer page title*************
+05042023 04:13:41 PM: INFO: ***********Login Successfully**********************
+05042023 04:13:41 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:13:46 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:15:29 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:15:32 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:15:32 PM: INFO: ********Verifying Customer page title*************
+05042023 04:15:40 PM: INFO: ***********Login Successfully**********************
+05042023 04:15:40 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:15:45 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:17:09 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:17:14 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:17:14 PM: INFO: ********Verifying Customer page title*************
+05042023 04:17:19 PM: INFO: ***********Login Successfully**********************
+05042023 04:17:19 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:17:24 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:18:45 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:18:49 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:18:49 PM: INFO: ********Verifying Customer page title*************
+05042023 04:18:57 PM: INFO: ***********Login Successfully**********************
+05042023 04:18:57 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:19:03 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:20:24 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:20:27 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:20:27 PM: INFO: ********Verifying Customer page title*************
+05042023 04:20:34 PM: INFO: ***********Login Successfully**********************
+05042023 04:20:34 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:20:40 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:20:44 PM: INFO: ***********Saving Customer Details**********************
+05042023 04:20:44 PM: INFO: ***********Add Customer Validation**********************
+05042023 04:22:54 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05042023 04:22:58 PM: INFO: ********Test_003_Add New Customer*************
+05042023 04:22:58 PM: INFO: ********Verifying Customer page title*************
+05042023 04:23:05 PM: INFO: ***********Login Successfully**********************
+05042023 04:23:05 PM: INFO: ***********Starting Add Customer Test**********************
+05042023 04:23:10 PM: INFO: ***********Provide Customer Details**********************
+05042023 04:23:15 PM: INFO: ***********Saving Customer Details**********************
+05042023 04:23:15 PM: INFO: ***********Add Customer Validation**********************
+05052023 11:04:29 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:04:34 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:04:34 AM: INFO: ********Verifying Customer page title*************
+05052023 11:04:41 AM: INFO: ***********Login Successfully**********************
+05052023 11:04:41 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:04:46 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:04:51 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:04:51 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:06:19 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:06:23 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:06:23 AM: INFO: ********Verifying Customer page title*************
+05052023 11:06:28 AM: INFO: ***********Login Successfully**********************
+05052023 11:06:28 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:06:33 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:06:38 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:06:38 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:07:19 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:07:23 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:07:23 AM: INFO: ********Verifying Customer page title*************
+05052023 11:07:31 AM: INFO: ***********Login Successfully**********************
+05052023 11:07:31 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:07:36 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:07:41 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:07:41 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:08:05 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:08:09 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:08:09 AM: INFO: ********Verifying Customer page title*************
+05052023 11:08:16 AM: INFO: ***********Login Successfully**********************
+05052023 11:08:16 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:08:21 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:08:26 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:08:26 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:11:13 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:11:17 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:11:17 AM: INFO: ********Verifying Customer page title*************
+05052023 11:11:23 AM: INFO: ***********Login Successfully**********************
+05052023 11:11:23 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:11:29 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:11:33 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:11:33 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:19:38 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:19:43 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:19:43 AM: INFO: ********Verifying Customer page title*************
+05052023 11:19:51 AM: INFO: ***********Login Successfully**********************
+05052023 11:19:51 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:19:56 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:20:01 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:20:01 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:31:09 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:31:14 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:31:14 AM: INFO: ********Verifying Customer page title*************
+05052023 11:31:26 AM: INFO: ***********Login Successfully**********************
+05052023 11:31:26 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:31:31 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:31:36 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:31:36 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:32:45 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:32:49 AM: INFO: ********Test_003_Add New Customer*************
+05052023 11:32:49 AM: INFO: ********Verifying Customer page title*************
+05052023 11:32:55 AM: INFO: ***********Login Successfully**********************
+05052023 11:32:55 AM: INFO: ***********Starting Add Customer Test**********************
+05052023 11:33:01 AM: INFO: ***********Provide Customer Details**********************
+05052023 11:33:05 AM: INFO: ***********Saving Customer Details**********************
+05052023 11:33:05 AM: INFO: ***********Add Customer Validation**********************
+05052023 11:33:05 AM: INFO: *********Added Customer test passed***********
+05052023 11:33:05 AM: INFO: *********Ending Add Customer test***********
+05052023 02:11:32 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 02:11:36 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 02:11:45 PM: INFO: *****************Login Successfully**************************
+05052023 02:11:45 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 02:12:51 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 02:12:55 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 02:13:05 PM: INFO: *****************Login Successfully**************************
+05052023 02:13:05 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 02:13:09 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:40:47 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:40:52 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:40:58 PM: INFO: *****************Login Successfully**************************
+05052023 06:40:58 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:41:02 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:44:43 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:44:47 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:44:55 PM: INFO: *****************Login Successfully**************************
+05052023 06:44:55 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:44:59 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:45:23 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:45:26 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:45:32 PM: INFO: *****************Login Successfully**************************
+05052023 06:45:32 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:45:36 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:46:19 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:46:22 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:46:27 PM: INFO: *****************Login Successfully**************************
+05052023 06:46:27 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:46:31 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:49:09 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:49:13 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:49:19 PM: INFO: *****************Login Successfully**************************
+05052023 06:49:19 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:49:24 PM: INFO: *****************Searching Customer by Email**************************
+05052023 06:53:22 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 06:53:26 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 06:53:32 PM: INFO: *****************Login Successfully**************************
+05052023 06:53:32 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 06:53:36 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:15:38 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:15:43 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:15:51 PM: INFO: *****************Login Successfully**************************
+05052023 10:15:51 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:15:55 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:20:48 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:20:51 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:20:57 PM: INFO: *****************Login Successfully**************************
+05052023 10:20:57 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:21:01 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:23:23 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:23:27 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:23:34 PM: INFO: *****************Login Successfully**************************
+05052023 10:23:34 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:23:38 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:31:00 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:31:03 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:31:10 PM: INFO: *****************Login Successfully**************************
+05052023 10:31:10 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:31:14 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:41:09 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:41:13 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:41:25 PM: INFO: *****************Login Successfully**************************
+05052023 10:41:25 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:41:29 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:42:52 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:42:55 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:43:01 PM: INFO: *****************Login Successfully**************************
+05052023 10:43:01 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:43:06 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:44:32 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:44:35 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:44:41 PM: INFO: *****************Login Successfully**************************
+05052023 10:44:41 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:44:45 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:47:01 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:47:05 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:47:12 PM: INFO: *****************Login Successfully**************************
+05052023 10:47:12 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:47:16 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:51:56 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:52:00 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:52:08 PM: INFO: *****************Login Successfully**************************
+05052023 10:52:08 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:52:13 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:54:44 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:54:47 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:54:55 PM: INFO: *****************Login Successfully**************************
+05052023 10:54:55 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:54:59 PM: INFO: *****************Searching Customer by Email**************************
+05052023 10:59:04 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 10:59:07 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 10:59:14 PM: INFO: *****************Login Successfully**************************
+05052023 10:59:14 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 10:59:18 PM: INFO: *****************Searching Customer by Email**************************
+05052023 11:01:19 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:01:22 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 11:01:32 PM: INFO: *****************Login Successfully**************************
+05052023 11:01:32 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 11:01:36 PM: INFO: *****************Searching Customer by Email**************************
+05052023 11:08:19 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:08:23 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 11:08:31 PM: INFO: *****************Login Successfully**************************
+05052023 11:08:31 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 11:08:35 PM: INFO: *****************Searching Customer by Email**************************
+05052023 11:11:12 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05052023 11:11:15 PM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05052023 11:11:21 PM: INFO: *****************Login Successfully**************************
+05052023 11:11:21 PM: INFO: *****************Starting Search Customer by Email**************************
+05052023 11:11:25 PM: INFO: *****************Searching Customer by Email**************************
+05082023 10:21:36 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:21:43 AM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05082023 10:21:50 AM: INFO: *****************Login Successfully**************************
+05082023 10:21:50 AM: INFO: *****************Starting Search Customer by Email**************************
+05082023 10:21:54 AM: INFO: *****************Searching Customer by Email**************************
+05082023 10:24:32 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:24:37 AM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05082023 10:24:43 AM: INFO: *****************Login Successfully**************************
+05082023 10:24:43 AM: INFO: *****************Starting Search Customer by Email**************************
+05082023 10:24:47 AM: INFO: *****************Searching Customer by Email**************************
+05082023 10:26:20 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:26:23 AM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05082023 10:26:29 AM: INFO: *****************Login Successfully**************************
+05082023 10:26:29 AM: INFO: *****************Starting Search Customer by Email**************************
+05082023 10:26:33 AM: INFO: *****************Searching Customer by Email**************************
+05082023 10:28:57 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:29:00 AM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05082023 10:29:08 AM: INFO: *****************Login Successfully**************************
+05082023 10:29:08 AM: INFO: *****************Starting Search Customer by Email**************************
+05082023 10:29:12 AM: INFO: *****************Searching Customer by Email**************************
+05082023 10:29:22 AM: INFO: *******************Test_004_SearchCustomerByEmail Finished****************
+05082023 10:48:43 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:48:47 AM: INFO: *****************Test_004_SearchCustomerByEmail**************************
+05082023 10:48:56 AM: INFO: *****************Login Successfully**************************
+05082023 10:48:56 AM: INFO: *****************Starting Search Customer by Name**************************
+05082023 10:49:00 AM: INFO: *****************Searching Customer by Name**************************
+05082023 10:50:57 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:51:02 AM: INFO: *****************Test_005_SearchCustomerByName**************************
+05082023 10:51:08 AM: INFO: *****************Login Successfully**************************
+05082023 10:51:08 AM: INFO: *****************Starting Search Customer by Name**************************
+05082023 10:51:13 AM: INFO: *****************Searching Customer by Name**************************
+05082023 10:53:26 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05082023 10:53:29 AM: INFO: *****************Test_005_SearchCustomerByName**************************
+05082023 10:53:42 AM: INFO: *****************Login Successfully**************************
+05082023 10:53:42 AM: INFO: *****************Starting Search Customer by Name**************************
+05082023 10:53:46 AM: INFO: *****************Searching Customer by Name**************************
+05082023 10:53:49 AM: INFO: *******************Test_004_SearchCustomerByName Finished****************
+05102023 11:31:47 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05102023 11:31:52 AM: INFO: ********Verifying Login Test*************
+05102023 11:31:57 AM: INFO: ********Login test case is passed*************
