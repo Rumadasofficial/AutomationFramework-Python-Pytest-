@@ -374,3 +374,9 @@
 05102023 11:31:47 AM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
 05102023 11:31:52 AM: INFO: ********Verifying Login Test*************
 05102023 11:31:57 AM: INFO: ********Login test case is passed*************
+05172023 12:37:16 PM: INFO: Executing: /Users/roma/PycharmProjects/nopcommerce/venv/lib/python3.10/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json
+05172023 12:37:23 PM: INFO: ********Verifying Login Test*************
+05172023 12:37:29 PM: INFO: ********Login test case is passed*************
+05172023 01:55:16 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+05172023 01:55:22 PM: INFO: ********Verifying Login Test*************
+05172023 01:55:29 PM: INFO: ********Login test case is passed*************
