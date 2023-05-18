@@ -380,3 +380,6 @@
 05172023 01:55:16 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
 05172023 01:55:22 PM: INFO: ********Verifying Login Test*************
 05172023 01:55:29 PM: INFO: ********Login test case is passed*************
+05182023 11:55:00 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+05182023 11:55:06 AM: INFO: ********Verifying Login Test*************
+05182023 11:55:11 AM: INFO: ********Login test case is passed*************
